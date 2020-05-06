@@ -1,0 +1,12 @@
+# The passphrase used to encrypt the backups of UCP
+ENCRYPT_PASS=BLANK
+# The URL for UCP
+UCP_URL=BLANK
+# DTR Version
+DTR_VERSION=2.7.2
+# The username to use for DTR backups
+DTR_USERNAME=BLANK
+# The password for the DTR backup user
+DTR_PASSWORD=BLANK
+# One of the replica_ids used for DTR
+DTR_REPLICA_ID=BLANK
